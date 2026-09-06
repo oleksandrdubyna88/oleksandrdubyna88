@@ -1,9 +1,10 @@
 # PLAN — a profile README that sells a systems architect, with the receipts attached
 
-> Status: **implemented locally, 2026-09-06 — the workflow's first run on GitHub is the remaining
-> verification; promotion to `research/` follows it.** Scope: `README.md`,
-> `.github/workflows/update-releases.yml`, `scripts/update-releases.mjs` (+ its test), and the GitHub profile
-> surface (repo descriptions, topics, pins, bio, display name). No product code is touched.
+> Status: **IMPLEMENTED, 2026-09-06.** Commit `0e8a539` on `main`; the workflow's first run
+> ([34024977756](https://github.com/oleksandrdubyna88/oleksandrdubyna88/actions/runs/34024977756)) succeeded and
+> exercised the no-op path. Two items stay with the person — the profile fields and the pins — see *What
+> shipped differently*. Scope: `README.md`, `.github/workflows/update-releases.yml`,
+> `scripts/update-releases.mjs` (+ its test), and the GitHub profile surface. No product code was touched.
 >
 > Verified against the code on 2026-09-06: three read-only explorations of the `dew_flow_*` repos, both
 > Marketplace listings fetched live, 24 competitor profile READMEs sampled. Every number below names the
@@ -287,15 +288,46 @@ Pins: five, in this order — `connect_other_ais`, `creds_for_devs`, `sidecar_ru
 
 ## Definition of Done
 
-- [ ] Display name, bio, blog set; six repos carry a description and topics; five are pinned.
-- [ ] `README.md` follows the six sections; ≤ 4.5 KB hand-written; two evidence badges, no stack badges.
-- [ ] Every number carries its sample size and traces to a public `file:line`; the private repo's line is marked `[private]`.
-- [ ] The releases block is filled by a workflow run; a no-change run produces no commit; the bot, not the person, authors the commits.
-- [ ] Tests exist for the script's two pure functions and pass in CI.
-- [ ] The screenshot, if included, exposes no non-public repository name.
-- [ ] This plan lives in `research/` with `IMPLEMENTED` and its deviations.
+- [x] Six repos carry a description and topics (verified with `gh repo view`, 2026-09-06).
+- [ ] Display name, bio, blog set — **blocked**: needs the `user` OAuth scope on the `gh` token (see below).
+- [ ] Five repositories pinned — **manual**, no API exists; pending the person.
+- [x] `README.md` follows the six sections (plus a three-bullet *How I work*); two evidence badges, no stack badges. Size: see deviation 3.
+- [x] Every number carries its sample size and traces to a public file (23 quotes verified on `origin/main`); the private repo's line is marked `[private]`.
+- [x] The releases block is filled; the first workflow run produced no commit because nothing had changed; commits, when they happen, are authored by `github-actions[bot]`.
+- [x] Ten `node --test` cases over the script's pure functions; green locally and in the workflow run.
+- [x] The screenshot exposes no non-public repository name — cropped to the findings list.
+- [x] This plan lives in `research/` with `IMPLEMENTED` and its deviations.
 
-## Open items for the person
+## What shipped differently
 
-1. The screenshot file — drop `coai-rounds.png` into `assets/` (cropped/redacted as above) or say "no screenshot for v1".
-2. LinkedIn was not mentioned — assumed **none** on purpose.
+1. **File links, not `file:line` anchors.** The plan's ledger cites lines; the README links to files and quotes
+   the phrase. These repositories cut ~30 tags a week — a line anchor would point at the wrong paragraph
+   within days. The ledger in this document keeps the lines as of 2026-09-06.
+2. **Six refuted intuitions, not five.** All six verified on `origin/main`; each is one table row.
+3. **10.4 KB of hand-written text against the ≤ 4.5 KB target.** The bytes are the measured content the
+   person asked for — every number with its N and its link — not decoration. Candidates if a shorter v2 is
+   wanted: drop *How I work* (~0.6 KB), cut the table to four rows (~0.8 KB), halve *Also public* (~1.2 KB).
+4. **The private repo's "8 s" repeat was wrong in this plan** — it is the small repo's figure. `dotnet/aspnetcore`'s
+   repeat pass is **1 min 24 s, 0 written** (its `architecture.md` table, re-measured 2026-08-17); the README
+   says that.
+5. **Profile fields not set.** `gh api -X PATCH user` needs the `user` scope the token lacks; granting it is an
+   interactive OAuth step. Either `gh auth refresh -h github.com -s user` and re-run the PATCH, or set name
+   `Oleksandr Dubyna`, the 146-char bio and `https://t.me/sashnetdev` at github.com/settings/profile.
+6. **Screenshots.** Seven were provided; one (the rounds table) was cropped to its findings list and shipped as
+   `assets/coai-findings.png`. The other six were moved out of the repository into the session scratchpad,
+   unused — a profile README carries one image.
+7. **`node --test`, not `node --test scripts/`.** Node 24 rejects a directory argument; auto-discovery from
+   the repo root finds `scripts/*.test.mjs`.
+8. **Owner token vs workflow token.** The owner's `gh` token sees draft releases, the workflow's token does
+   not — a local run and the CI run reported 184 vs 180 fetched while producing an identical block. The log
+   line now counts published releases only, so the two agree.
+9. **Verified against the published branch, not the checkout.** Both flagship checkouts were on feature
+   branches 6–9 commits ahead of `origin/main`, and three other repos were behind it; every quote was checked
+   with `git show origin/main:<path>`. Two "misses" were line-wrapped phrases, not absent ones.
+
+## Still with the person
+
+1. Pin the five repositories on the profile page: `connect_other_ais`, `creds_for_devs`, `sidecar_rust`,
+   `benchmark`, `mcp`.
+2. Grant the `user` scope (or edit the profile by hand) — deviation 5.
+3. LinkedIn was not mentioned — assumed **none** on purpose.

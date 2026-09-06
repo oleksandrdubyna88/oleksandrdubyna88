@@ -100,8 +100,11 @@ async function main() {
   if (after !== before) writeFileSync(readmePath, after);
   writeFileSync(join(root, 'releases.md'), renderFull(releases));
 
-  const perRepo = REPOS.map((repo) => `${repo}=${releases.filter((r) => r.repo === repo).length}`).join(' ');
-  console.log(`${releases.length} releases (${perRepo}); README ${after === before ? 'unchanged' : 'updated'}.`);
+  // Count what was rendered, not what was fetched: an owner's token also sees draft releases, a
+  // workflow's token does not, and the two must report the same number for the same block.
+  const published = sortReleases(releases);
+  const perRepo = REPOS.map((repo) => `${repo}=${published.filter((r) => r.repo === repo).length}`).join(' ');
+  console.log(`${published.length} published releases (${perRepo}); README ${after === before ? 'unchanged' : 'updated'}.`);
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
