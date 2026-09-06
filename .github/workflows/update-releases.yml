@@ -1,0 +1,48 @@
+name: Update recent releases
+
+# Refreshes the "Recent releases" block in README.md (and releases.md) from the public releases of the
+# dew_flow_* repositories. Daily, off the hour; a day with no new release produces no commit, and the
+# commits that do happen are authored by the bot — they never touch the person's contribution graph.
+# Every source repository is public, so the default token is all the read access this needs.
+
+on:
+  schedule:
+    - cron: '23 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-releases
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Test the script before trusting it with the README
+        run: node --test
+
+      - name: Refresh the block
+        run: node scripts/update-releases.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Commit only if something changed
+        run: |
+          if git diff --quiet -- README.md releases.md; then
+            echo "No new release since the last run — nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md releases.md
+          git commit -m "chore(releases): refresh the recent-releases block"
+          git push

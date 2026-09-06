@@ -1,0 +1,200 @@
+# Releases
+
+Every release across the public repositories, refreshed daily by [a workflow](.github/workflows/update-releases.yml).
+
+## dew_flow_connect_other_ais
+
+- [extension-v0.30.4](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.30.4) — 2026-09-06
+- [mcp-v0.18.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.1) — 2026-09-05
+- [extension-v0.30.3](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.30.3) — 2026-09-05
+- [extension-v0.30.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.30.0) — 2026-09-05
+- [mcp-v0.18.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.0) — 2026-09-05
+- [extension-v0.29.12](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.12) — 2026-09-05
+- [mcp-v0.17.5](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.17.5) — 2026-09-05
+- [mcp-v0.17.4](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.17.4) — 2026-09-05
+- [extension-v0.29.11](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.11) — 2026-09-05
+- [mcp-v0.17.3](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.17.3) — 2026-09-05
+- [extension-v0.29.10](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.10) — 2026-09-05
+- [mcp-v0.17.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.17.2) — 2026-09-05
+- [extension-v0.29.9](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.9) — 2026-09-05
+- [extension-v0.29.8](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.8) — 2026-09-05
+- [mcp-v0.17.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.17.1) — 2026-09-05
+- [extension-v0.29.7](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.7) — 2026-09-05
+- [mcp-v0.17.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.17.0) — 2026-09-04
+- [extension-v0.29.6](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.6) — 2026-09-04
+- [mcp-v0.16.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.16.0) — 2026-09-04
+- [extension-v0.29.5](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.5) — 2026-09-04
+- [extension-v0.29.3](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.3) — 2026-09-04
+- [extension-v0.29.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.2) — 2026-09-04
+- [mcp-v0.15.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.15.0) — 2026-09-04
+- [extension-v0.29.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.1) — 2026-09-04
+- [mcp-v0.14.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.14.0) — 2026-09-03
+- [extension-v0.29.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.29.0) — 2026-09-03
+- [mcp-v0.13.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.13.0) — 2026-09-03
+- [extension-v0.28.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.28.0) — 2026-09-03
+- [mcp-v0.12.4](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.12.4) — 2026-09-03
+- [mcp-v0.12.3](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.12.3) — 2026-09-03
+- [extension-v0.27.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.27.0) — 2026-09-03
+- [extension-v0.26.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.26.2) — 2026-09-03
+- [mcp-v0.12.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.12.2) — 2026-09-03
+- [mcp-v0.12.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.12.1) — 2026-09-03
+- [extension-v0.26.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.26.1) — 2026-09-03
+- [mcp-v0.12.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.12.0) — 2026-09-03
+- [extension-v0.26.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.26.0) — 2026-09-03
+- [mcp-v0.11.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.11.2) — 2026-09-02
+- [extension-v0.25.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.25.2) — 2026-09-02
+- [mcp-v0.11.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.11.1) — 2026-09-02
+- [extension-v0.25.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.25.1) — 2026-09-02
+- [mcp-v0.11.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.11.0) — 2026-09-02
+- [extension-v0.25.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.25.0) — 2026-09-02
+- [extension-v0.24.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.24.0) — 2026-09-02
+- [mcp-v0.10.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.10.0) — 2026-09-02
+- [extension-v0.23.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.23.0) — 2026-09-02
+- [extension-v0.22.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.22.0) — 2026-09-01
+- [extension-v0.21.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.21.0) — 2026-09-01
+- [extension-v0.20.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.20.0) — 2026-09-01
+- [extension-v0.19.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.19.1) — 2026-09-01
+- [mcp-v0.9.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.9.1) — 2026-09-01
+- [mcp-v0.9.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.9.0) — 2026-09-01
+- [extension-v0.19.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.19.0) — 2026-09-01
+- [extension-v0.18.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.18.0) — 2026-09-01
+- [mcp-v0.8.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.8.1) — 2026-09-01
+- [extension-v0.17.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.17.0) — 2026-09-01
+- [mcp-v0.8.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.8.0) — 2026-09-01
+- [extension-v0.16.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.16.0) — 2026-09-01
+- [mcp-v0.7.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.7.1) — 2026-09-01
+- [extension-v0.15.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.15.0) — 2026-09-01
+- [extension-v0.14.3](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.14.3) — 2026-09-01
+- [extension-v0.14.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.14.2) — 2026-09-01
+- [extension-v0.14.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.14.1) — 2026-09-01
+- [extension-v0.14.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.14.0) — 2026-09-01
+- [mcp-v0.7.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.7.0) — 2026-09-01
+- [extension-v0.13.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.13.1) — 2026-09-01
+- [mcp-v0.6.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.6.0) — 2026-09-01
+- [extension-v0.13.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.13.0) — 2026-09-01
+- [mcp-v0.5.3](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.5.3) — 2026-09-01
+- [extension-v0.12.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.12.0) — 2026-09-01
+- [mcp-v0.5.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.5.2) — 2026-09-01
+- [extension-v0.11.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.11.1) — 2026-09-01
+- [extension-v0.11.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.11.0) — 2026-09-01
+- [mcp-v0.5.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.5.1) — 2026-09-01
+- [extension-v0.10.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.10.1) — 2026-09-01
+- [mcp-v0.5.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.5.0) — 2026-09-01
+- [extension-v0.10.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.10.0) — 2026-09-01
+- [mcp-v0.4.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.4.0) — 2026-08-31
+- [extension-v0.9.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.9.1) — 2026-08-31
+- [mcp-v0.3.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.3.1) — 2026-08-31
+- [extension-v0.9.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.9.0) — 2026-08-31
+- [extension-v0.8.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.8.1) — 2026-08-31
+- [mcp-v0.3.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.3.0) — 2026-08-31
+- [mcp-v0.2.3](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.2.3) — 2026-08-31
+- [mcp-v0.2.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.2.2) — 2026-08-31
+- [mcp-v0.2.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.2.1) — 2026-08-31
+- [mcp-v0.2.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.2.0) — 2026-08-31
+- [mcp-v0.1.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.1.0) — 2026-08-31
+
+## dew_flow_creds_for_devs
+
+- [extension-v1.0.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.0.0) — 2026-09-06
+- [extension-v0.99.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.99.1) — 2026-09-05
+- [extension-v0.99.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.99.0) — 2026-09-05
+- [extension-v0.98.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.98.0) — 2026-09-04
+- [extension-v0.97.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.97.0) — 2026-09-03
+- [server-v0.5.3](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.5.3) — 2026-09-03
+- [extension-v0.96.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.96.0) — 2026-09-03
+- [extension-v0.94.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.94.1) — 2026-09-03
+- [extension-v0.94.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.94.0) — 2026-09-02
+- [extension-v0.93.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.93.0) — 2026-09-01
+- [server-v0.5.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.5.1) — 2026-09-01
+- [mcp-v0.5.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.5.1) — 2026-09-01
+- [cli-v0.1.5](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.1.5) — 2026-09-01
+- [extension-v0.92.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.92.0) — 2026-09-01
+- [extension-v0.91.2](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.91.2) — 2026-08-31
+- [extension-v0.91.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.91.1) — 2026-08-31
+- [extension-v0.91.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.91.0) — 2026-08-31
+- [mcp-v0.5.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.5.0) — 2026-08-31
+- [cli-v0.1.4](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.1.4) — 2026-08-31
+- [extension-v0.90.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.90.0) — 2026-08-31
+- [mcp-v0.4.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.4.0) — 2026-08-31
+- [extension-v0.89.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.89.0) — 2026-08-31
+- [extension-v0.88.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.88.0) — 2026-08-31
+- [server-v0.5.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.5.0) — 2026-08-31
+- [cli-v0.1.3](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.1.3) — 2026-08-31
+- [mcp-v0.3.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.3.0) — 2026-08-31
+- [extension-v0.87.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.87.0) — 2026-08-28
+- [extension-v0.86.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.86.0) — 2026-08-28
+- [extension-v0.85.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.85.0) — 2026-08-28
+- [extension-v0.84.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.84.0) — 2026-08-28
+- [mcp-v0.2.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.2.0) — 2026-08-28
+- [cli-v0.1.2](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.1.2) — 2026-08-28
+- [extension-v0.83.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.83.1) — 2026-08-28
+- [extension-v0.83.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.83.0) — 2026-08-28
+- [server-v0.4.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.4.0) — 2026-08-28
+- [extension-v0.82.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.82.1) — 2026-08-28
+- [extension-v0.82.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.82.0) — 2026-08-28
+- [extension-v0.81.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.81.1) — 2026-08-28
+- [extension-v0.81.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.81.0) — 2026-08-28
+- [extension-v0.80.7](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.80.7) — 2026-08-28
+- [extension-v0.80.6](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.80.6) — 2026-08-28
+- [extension-v0.80.5](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.80.5) — 2026-08-28
+- [extension-v0.80.4](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.80.4) — 2026-08-28
+- [extension-v0.80.3](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.80.3) — 2026-08-28
+- [extension-v0.80.2](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.80.2) — 2026-08-28
+- [extension-v0.80.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.80.1) — 2026-08-28
+- [extension-v0.80.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.80.0) — 2026-08-28
+- [server-v0.3.2](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.3.2) — 2026-08-28
+- [mcp-v0.1.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.1.0) — 2026-08-28
+- [cli-v0.1.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.1.1) — 2026-08-28
+- [server-v0.3.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.3.1) — 2026-08-27
+- [server-v0.3.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.3.0) — 2026-08-27
+- [cli-v0.1.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.1.0) — 2026-08-27
+- [extension-v0.57.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.57.1) — 2026-08-25
+- [extension-v0.57.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.57.0) — 2026-08-25
+- [extension-v0.56.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.56.1) — 2026-08-25
+- [extension-v0.56.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.56.0) — 2026-08-25
+- [extension-v0.55.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.55.0) — 2026-08-25
+- [extension-v0.54.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.54.0) — 2026-08-25
+- [extension-v0.53.2](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.53.2) — 2026-08-25
+- [extension-v0.53.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.53.1) — 2026-08-25
+- [extension-v0.53.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.53.0) — 2026-08-25
+- [extension-v0.52.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.52.0) — 2026-08-25
+- [extension-v0.51.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.51.0) — 2026-08-25
+- [extension-v0.50.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.50.0) — 2026-08-25
+- [server-v0.2.3](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.2.3) — 2026-08-25
+- [extension-v0.49.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.49.1) — 2026-08-25
+- [extension-v0.49.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.49.0) — 2026-08-25
+- [extension-v0.48.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.48.0) — 2026-08-25
+- [extension-v0.47.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.47.0) — 2026-08-25
+- [extension-v0.46.2](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.46.2) — 2026-08-25
+- [extension-v0.46.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.46.1) — 2026-08-25
+- [extension-v0.46.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.46.0) — 2026-08-25
+- [extension-v0.45.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.45.0) — 2026-08-25
+- [extension-v0.44.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.44.0) — 2026-08-25
+- [server-v0.2.2](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.2.2) — 2026-08-25
+- [extension-v0.43.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.43.0) — 2026-08-25
+- [extension-v0.42.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.42.1) — 2026-08-24
+- [server-v0.2.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.2.1) — 2026-08-24
+- [server-v0.2.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.2.0) — 2026-08-24
+- [extension-v0.42.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.42.0) — 2026-08-24
+- [extension-v0.41.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.41.0) — 2026-08-24
+- [extension-v0.40.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.40.1) — 2026-08-24
+- [extension-v0.40.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.40.0) — 2026-08-24
+- [extension-v0.39.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.39.0) — 2026-08-24
+- [extension-v0.38.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.38.0) — 2026-08-24
+- [extension-v0.37.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.37.0) — 2026-08-24
+- [extension-v0.36.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.36.0) — 2026-08-24
+- [extension-v0.35.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.35.0) — 2026-08-24
+
+## dew_flow_sidecar_rust
+
+- [v0.1.2](https://github.com/oleksandrdubyna88/dew_flow_sidecar_rust/releases/tag/v0.1.2) — 2026-08-21
+- [v0.1.1](https://github.com/oleksandrdubyna88/dew_flow_sidecar_rust/releases/tag/v0.1.1) — 2026-08-20
+- [v0.1.0](https://github.com/oleksandrdubyna88/dew_flow_sidecar_rust/releases/tag/v0.1.0) — 2026-08-20
+
+## dew_flow_benchmark
+
+*(no releases yet)*
+
+## dew_flow_mcp
+
+*(no releases yet)*
