@@ -273,7 +273,7 @@ Pins: five, in this order — `connect_other_ais`, `creds_for_devs`, `sidecar_ru
 
 ## Test plan
 
-- `node --test scripts/` green locally and in the workflow.
+- `node --test` (auto-discovery from the repo root) green locally and in the workflow.
 - The script against the live API: 3 repos with releases, 2 without, no error; block sorted by date.
 - A forced failure (bad repo name) exits 1 and leaves `README.md` byte-identical.
 - Every number in the README traced to `file:line` on the **public** `main` of its repo (the ledger
@@ -324,6 +324,15 @@ Pins: five, in this order — `connect_other_ais`, `creds_for_devs`, `sidecar_ru
 9. **Verified against the published branch, not the checkout.** Both flagship checkouts were on feature
    branches 6–9 commits ahead of `origin/main`, and three other repos were behind it; every quote was checked
    with `git show origin/main:<path>`. Two "misses" were line-wrapped phrases, not absent ones.
+10. **An "Under the hood" line, added on the person's request after the first publish.** Not a badge row and
+    not a section — one `<sub>` paragraph under the badges, grouped by domain. Every item was taken from a
+    manifest on the published branch of one of the seven `dew_flow_*` repos (`PackageReference`, `Cargo.toml`
+    dependencies and features, `package.json`, Dockerfiles, compose files, workflow files) or from a named
+    source file; the three that needed a code-level check (WireGuard/OpenVPN in `types.ts`/`toolCheck.ts`,
+    WebAuthn in `cryptoUtils.ts`, Entra/Google sign-in in the server's `Program.cs`) got one. Left off as
+    unsupported by any manifest: Polly, OpenTelemetry, SignalR, Redis (mentions only), Argon2 (rejected in
+    `PLAN_import.md`). For the reader who counts: `git grep` found "polly" in 21 files of the benchmark and no
+    Polly package anywhere — a mention count is not a dependency.
 
 ## Still with the person
 

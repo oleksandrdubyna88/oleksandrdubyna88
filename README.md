@@ -9,6 +9,8 @@ ship with their measurements. .NET 10 Native AOT, Rust, TypeScript. Spain.
 [![ConnectOtherAIs on the VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/remsoftdev.connect-other-ais?label=ConnectOtherAIs)](https://marketplace.visualstudio.com/items?itemName=remsoftdev.connect-other-ais)
 [![CredsForDevs on the VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/remsoftdev.creds-for-devs?label=CredsForDevs)](https://marketplace.visualstudio.com/items?itemName=remsoftdev.creds-for-devs)
 
+<sub>**Under the hood:** .NET 10 / C# 14 — Native AOT, ASP.NET Core minimal APIs, Aspire, Blazor WebAssembly, EF Core, Roslyn, the MCP C# SDK, Serilog · Rust — axum, tokio, ONNX Runtime through `ort` (DirectML / CUDA / MIGraphX-ROCm), fastembed, tokenizers · TypeScript — VS Code Extension API, esbuild, ESLint, vitest; zero runtime dependencies in the shipped extension · Model Context Protocol over stdio and HTTP/SSE · Postgres, Qdrant, Neo4j, SQLite · BGE-M3, bge-reranker-v2-m3, Ollama / vLLM; Codex, Antigravity (Gemini), Claude and DeepSeek CLIs as reviewers; Microsoft.Extensions.AI.Evaluation · AES-256-GCM, scrypt, HKDF, X25519, Shamir over GF(2⁸), YubiKey (WebAuthn) unlock, JWT with Entra ID / Google sign-in, OS keychain, WireGuard / OpenVPN · Docker (chiseled images, multi-arch buildx, ghcr.io), Docker Compose, nginx + certbot, GitHub Actions, semantic-release, SonarCloud, CodeQL, CodeRabbit · xUnit v3, FluentAssertions, bUnit, Testcontainers.</sub>
+
 ## What I ship
 
 ### [ConnectOtherAIs](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais) — a review gate run by other vendors' models
