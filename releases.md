@@ -4,6 +4,14 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_connect_other_ais
 
+- [extension-v0.31.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.31.2) — 2026-09-07
+- [extension-v0.31.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.31.1) — 2026-09-07
+- [mcp-v0.18.7](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.7) — 2026-09-06
+- [mcp-v0.18.6](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.6) — 2026-09-06
+- [mcp-v0.18.5](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.5) — 2026-09-06
+- [mcp-v0.18.4](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.4) — 2026-09-06
+- [mcp-v0.18.3](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.3) — 2026-09-06
+- [extension-v0.31.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.31.0) — 2026-09-06
 - [mcp-v0.18.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.2) — 2026-09-06
 - [extension-v0.30.4](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.30.4) — 2026-09-06
 - [mcp-v0.18.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.1) — 2026-09-05
@@ -96,6 +104,7 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_creds_for_devs
 
+- [extension-v1.1.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.1.0) — 2026-09-06
 - [extension-v1.0.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.0.0) — 2026-09-06
 - [extension-v0.99.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.99.1) — 2026-09-05
 - [extension-v0.99.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v0.99.0) — 2026-09-05
