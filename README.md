@@ -122,14 +122,14 @@ to the public file holding the raw data.
 ## Recent releases
 
 <!-- releases:start -->
+- [dew_flow_connect_other_ais · extension-v0.36.6](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.36.6) — 2026-09-12
+- [dew_flow_connect_other_ais · extension-v0.35.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.35.0) — 2026-09-11
+- [dew_flow_connect_other_ais · extension-v0.34.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.34.0) — 2026-09-11
+- [dew_flow_creds_for_devs · extension-v1.6.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.6.0) — 2026-09-11
+- [dew_flow_connect_other_ais · server-v0.5.7](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.5.7) — 2026-09-11
 - [dew_flow_connect_other_ais · extension-v0.33.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.33.1) — 2026-09-11
 - [dew_flow_connect_other_ais · extension-v0.33.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.33.0) — 2026-09-10
 - [dew_flow_creds_for_devs · extension-v1.5.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.5.0) — 2026-09-10
-- [dew_flow_connect_other_ais · mcp-v0.18.17](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.17) — 2026-09-10
-- [dew_flow_connect_other_ais · extension-v0.32.3](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.32.3) — 2026-09-10
-- [dew_flow_connect_other_ais · mcp-v0.18.16](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.16) — 2026-09-10
-- [dew_flow_connect_other_ais · extension-v0.31.22](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.31.22) — 2026-09-10
-- [dew_flow_connect_other_ais · mcp-v0.18.15](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.18.15) — 2026-09-09
 <!-- releases:end -->
 
 <sub>The eight newest across the public repositories; the full list is in [releases.md](releases.md).
