@@ -122,14 +122,14 @@ to the public file holding the raw data.
 ## Recent releases
 
 <!-- releases:start -->
-- [dew_flow_connect_other_ais · extension-v0.40.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.40.0) — 2026-09-13
-- [dew_flow_connect_other_ais · mcp-v0.20.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.20.0) — 2026-09-13
-- [dew_flow_connect_other_ais · extension-v0.39.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.39.0) — 2026-09-13
-- [dew_flow_creds_for_devs · cli-v0.1.6](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.1.6) — 2026-09-12
-- [dew_flow_connect_other_ais · mcp-v0.19.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.19.0) — 2026-09-12
-- [dew_flow_creds_for_devs · server-v0.7.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.7.0) — 2026-09-12
-- [dew_flow_creds_for_devs · mcp-v0.6.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.6.0) — 2026-09-12
-- [dew_flow_creds_for_devs · extension-v1.7.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.7.0) — 2026-09-12
+- [dew_flow_connect_other_ais · extension-v0.43.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.43.1) — 2026-09-14
+- [dew_flow_connect_other_ais · extension-v0.43.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.43.0) — 2026-09-14
+- [dew_flow_connect_other_ais · mcp-v0.22.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.22.0) — 2026-09-14
+- [dew_flow_connect_other_ais · extension-v0.42.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.42.1) — 2026-09-14
+- [dew_flow_connect_other_ais · server-v0.6.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.6.1) — 2026-09-14
+- [dew_flow_connect_other_ais · extension-v0.42.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.42.0) — 2026-09-14
+- [dew_flow_connect_other_ais · server-v0.6.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.6.0) — 2026-09-14
+- [dew_flow_connect_other_ais · extension-v0.41.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.41.0) — 2026-09-14
 <!-- releases:end -->
 
 <sub>The eight newest across the public repositories; the full list is in [releases.md](releases.md).
