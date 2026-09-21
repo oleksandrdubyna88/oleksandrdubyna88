@@ -171,6 +171,7 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_creds_for_devs
 
+- [server-v0.8.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.8.0) — 2026-09-21
 - [extension-v1.9.7](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.9.7) — 2026-09-18
 - [mcp-v0.6.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.6.1) — 2026-09-17
 - [extension-v1.9.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.9.0) — 2026-09-17
@@ -279,6 +280,7 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_sidecar_rust
 
+- [v0.2.0](https://github.com/oleksandrdubyna88/dew_flow_sidecar_rust/releases/tag/v0.2.0) — 2026-09-21
 - [v0.1.2](https://github.com/oleksandrdubyna88/dew_flow_sidecar_rust/releases/tag/v0.1.2) — 2026-08-21
 - [v0.1.1](https://github.com/oleksandrdubyna88/dew_flow_sidecar_rust/releases/tag/v0.1.1) — 2026-08-20
 - [v0.1.0](https://github.com/oleksandrdubyna88/dew_flow_sidecar_rust/releases/tag/v0.1.0) — 2026-08-20
