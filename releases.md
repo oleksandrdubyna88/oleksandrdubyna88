@@ -4,6 +4,12 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_connect_other_ais
 
+- [server-v0.7.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.7.0) — 2026-09-25
+- [extension-v0.53.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.53.1) — 2026-09-25
+- [mcp-v0.34.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.34.0) — 2026-09-24
+- [extension-v0.53.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.53.0) — 2026-09-24
+- [mcp-v0.33.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.33.0) — 2026-09-24
+- [extension-v0.52.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.52.0) — 2026-09-24
 - [mcp-v0.32.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.32.0) — 2026-09-23
 - [extension-v0.51.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.51.0) — 2026-09-23
 - [mcp-v0.31.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.31.0) — 2026-09-23
@@ -176,6 +182,10 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_creds_for_devs
 
+- [server-v0.9.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.9.0) — 2026-09-24
+- [cli-v0.3.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.3.0) — 2026-09-24
+- [mcp-v0.8.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.8.0) — 2026-09-24
+- [extension-v1.10.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.10.0) — 2026-09-24
 - [mcp-v0.7.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.7.0) — 2026-09-21
 - [cli-v0.2.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.2.0) — 2026-09-21
 - [server-v0.8.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.8.0) — 2026-09-21
