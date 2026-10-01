@@ -203,6 +203,8 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_creds_for_devs
 
+- [mcp-v0.9.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.9.0) — 2026-09-30
+- [extension-v1.12.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.12.0) — 2026-09-30
 - [server-v0.10.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.10.0) — 2026-09-26
 - [extension-v1.11.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.11.0) — 2026-09-25
 - [server-v0.9.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.9.0) — 2026-09-24
