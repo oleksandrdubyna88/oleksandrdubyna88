@@ -4,6 +4,10 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_connect_other_ais
 
+- [extension-v0.66.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.66.0) — 2026-10-10
+- [server-v0.10.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.10.0) — 2026-10-09
+- [mcp-v0.45.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.45.0) — 2026-10-09
+- [extension-v0.65.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.65.0) — 2026-10-09
 - [mcp-v0.44.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.44.2) — 2026-10-07
 - [mcp-v0.44.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.44.0) — 2026-10-07
 - [extension-v0.64.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.64.0) — 2026-10-04
@@ -218,6 +222,8 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_creds_for_devs
 
+- [extension-v1.13.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.13.1) — 2026-10-10
+- [cli-v0.3.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.3.1) — 2026-10-10
 - [server-v0.10.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.10.1) — 2026-10-04
 - [extension-v1.13.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.13.0) — 2026-10-03
 - [mcp-v0.9.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/mcp-v0.9.1) — 2026-10-02
