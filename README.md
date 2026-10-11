@@ -122,14 +122,14 @@ to the public file holding the raw data.
 ## Recent releases
 
 <!-- releases:start -->
+- [dew_flow_connect_other_ais · server-v0.11.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.11.0) — 2026-10-10
+- [dew_flow_connect_other_ais · extension-v0.67.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.67.0) — 2026-10-10
+- [dew_flow_connect_other_ais · mcp-v0.46.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.46.0) — 2026-10-10
+- [dew_flow_connect_other_ais · mcp-v0.45.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.45.1) — 2026-10-10
 - [dew_flow_creds_for_devs · extension-v1.13.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.13.1) — 2026-10-10
 - [dew_flow_creds_for_devs · cli-v0.3.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/cli-v0.3.1) — 2026-10-10
 - [dew_flow_connect_other_ais · extension-v0.66.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.66.0) — 2026-10-10
 - [dew_flow_connect_other_ais · server-v0.10.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.10.0) — 2026-10-09
-- [dew_flow_connect_other_ais · mcp-v0.45.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.45.0) — 2026-10-09
-- [dew_flow_connect_other_ais · extension-v0.65.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.65.0) — 2026-10-09
-- [dew_flow_connect_other_ais · mcp-v0.44.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.44.2) — 2026-10-07
-- [dew_flow_connect_other_ais · mcp-v0.44.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.44.0) — 2026-10-07
 <!-- releases:end -->
 
 <sub>The eight newest across the public repositories; the full list is in [releases.md](releases.md).
