@@ -122,14 +122,14 @@ to the public file holding the raw data.
 ## Recent releases
 
 <!-- releases:start -->
+- [dew_flow_connect_other_ais · mcp-v0.53.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.53.0) — 2026-10-13
+- [dew_flow_connect_other_ais · extension-v0.73.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.73.0) — 2026-10-13
+- [dew_flow_connect_other_ais · mcp-v0.52.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.52.2) — 2026-10-13
+- [dew_flow_connect_other_ais · extension-v0.72.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.72.1) — 2026-10-13
+- [dew_flow_connect_other_ais · extension-v0.72.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.72.0) — 2026-10-13
 - [dew_flow_connect_other_ais · mcp-v0.52.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.52.0) — 2026-10-13
 - [dew_flow_connect_other_ais · mcp-v0.51.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.51.0) — 2026-10-13
 - [dew_flow_connect_other_ais · server-v0.12.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.12.0) — 2026-10-12
-- [dew_flow_connect_other_ais · mcp-v0.50.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.50.0) — 2026-10-12
-- [dew_flow_connect_other_ais · extension-v0.71.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.71.0) — 2026-10-12
-- [dew_flow_connect_other_ais · extension-v0.70.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.70.0) — 2026-10-12
-- [dew_flow_connect_other_ais · mcp-v0.49.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.49.0) — 2026-10-12
-- [dew_flow_creds_for_devs · server-v0.11.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/server-v0.11.1) — 2026-10-12
 <!-- releases:end -->
 
 <sub>The eight newest across the public repositories; the full list is in [releases.md](releases.md).
