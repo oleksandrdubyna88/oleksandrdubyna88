@@ -4,6 +4,11 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_connect_other_ais
 
+- [server-v0.13.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.13.1) — 2026-10-18
+- [extension-v0.80.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.80.1) — 2026-10-18
+- [mcp-v0.60.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.60.1) — 2026-10-18
+- [extension-v0.80.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.80.0) — 2026-10-18
+- [mcp-v0.60.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.60.0) — 2026-10-18
 - [extension-v0.79.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.79.0) — 2026-10-17
 - [mcp-v0.59.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.59.0) — 2026-10-17
 - [server-v0.13.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.13.0) — 2026-10-16
