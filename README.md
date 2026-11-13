@@ -122,14 +122,14 @@ to the public file holding the raw data.
 ## Recent releases
 
 <!-- releases:start -->
+- [dew_flow_creds_for_devs · extension-v1.21.4](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.21.4) — 2026-11-12
+- [dew_flow_connect_other_ais · extension-v0.87.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.87.0) — 2026-11-12
 - [dew_flow_creds_for_devs · extension-v1.21.3](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.21.3) — 2026-11-11
 - [dew_flow_connect_other_ais · extension-v0.86.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.86.0) — 2026-11-11
 - [dew_flow_creds_for_devs · extension-v1.21.2](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.21.2) — 2026-11-11
 - [dew_flow_connect_other_ais · server-v0.16.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.16.0) — 2026-11-11
 - [dew_flow_connect_other_ais · bugs-v0.6.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/bugs-v0.6.0) — 2026-11-11
 - [dew_flow_creds_for_devs · extension-v1.21.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.21.1) — 2026-11-11
-- [dew_flow_creds_for_devs · extension-v1.21.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.21.0) — 2026-11-11
-- [dew_flow_creds_for_devs · extension-v1.20.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.20.0) — 2026-11-10
 <!-- releases:end -->
 
 <sub>The eight newest across the public repositories; the full list is in [releases.md](releases.md).
