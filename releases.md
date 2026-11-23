@@ -291,6 +291,7 @@ Every release across the public repositories, refreshed daily by [a workflow](.g
 
 ## dew_flow_creds_for_devs
 
+- [extension-v1.23.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.23.0) — 2026-11-23
 - [extension-v1.22.3](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.22.3) — 2026-11-17
 - [extension-v1.22.2](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.22.2) — 2026-11-17
 - [extension-v1.22.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.22.1) — 2026-11-15
