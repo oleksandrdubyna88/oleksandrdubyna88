@@ -122,14 +122,14 @@ to the public file holding the raw data.
 ## Recent releases
 
 <!-- releases:start -->
+- [dew_flow_connect_other_ais · extension-v2.1.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v2.1.1) — 2026-11-27
+- [dew_flow_creds_for_devs · extension-v1.24.1](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.24.1) — 2026-11-27
+- [dew_flow_connect_other_ais · extension-v2.1.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v2.1.0) — 2026-11-27
+- [dew_flow_creds_for_devs · extension-v1.24.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.24.0) — 2026-11-27
 - [dew_flow_connect_other_ais · extension-v2.0.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v2.0.0) — 2026-11-24
 - [dew_flow_connect_other_ais · mcp-v2.0.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v2.0.0) — 2026-11-24
 - [dew_flow_connect_other_ais · server-v0.16.4](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/server-v0.16.4) — 2026-11-24
 - [dew_flow_connect_other_ais · mcp-v0.66.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/mcp-v0.66.1) — 2026-11-24
-- [dew_flow_creds_for_devs · extension-v1.23.0](https://github.com/oleksandrdubyna88/dew_flow_creds_for_devs/releases/tag/extension-v1.23.0) — 2026-11-23
-- [dew_flow_connect_other_ais · extension-v0.89.2](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.89.2) — 2026-11-19
-- [dew_flow_connect_other_ais · extension-v0.89.1](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.89.1) — 2026-11-19
-- [dew_flow_connect_other_ais · extension-v0.89.0](https://github.com/oleksandrdubyna88/dew_flow_connect_other_ais/releases/tag/extension-v0.89.0) — 2026-11-18
 <!-- releases:end -->
 
 <sub>The eight newest across the public repositories; the full list is in [releases.md](releases.md).
